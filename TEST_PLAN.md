@@ -1,14 +1,14 @@
 # Manual Test Plan
 
 ## Testing Environment
-- Application: Visitor Photo Slideshow
+- Website: Visitor Photo Slideshow
 - Testing Method: Manual Testing
 
 ## Test Cases
 
 | Test | Expected Result | Status |
 |---|---|---|
-| Open application | Application loads successfully | Not tested |
+| Open Website | Website loads successfully | Not tested |
 | Submit visitor name | Visitor information is accepted | Not tested |
 | Upload valid photos | Photos upload successfully | Not tested |
 | Upload invalid file | Invalid file is rejected | Not tested |
@@ -18,5 +18,5 @@
 | Admin logout | Admin session ends | Not tested |
 
 ## Notes
-Tests should be performed on the running application.
+Tests should be performed on the running Website.
 Test results should be updated after actual testing.
